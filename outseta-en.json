@@ -348,7 +348,7 @@
     "Change_Email": "Change email",
     "Change_FirstLastName": "Change name",
     "Change_Name": "Change name",
-    "Change_Organization": "Change organization",
+    "Change_Organization": "Change organisation name",
     "Change_Password": "Change password"
   },
   "Plans": {
@@ -361,7 +361,7 @@
   "Properties": {
     "Account_BillingAddress": "Billing address",
     "Account_MailingAddress": "Mailing address",
-    "Account_Name": "Organization",
+    "Account_Name": "Organisation name",
     "Account_TaxId": "Tax Id",
     "Account_TaxIdType": "Tax Id type",
     "AddressLine1": "Address line 1",
