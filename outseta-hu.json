@@ -382,7 +382,7 @@
   "Properties": {
     "Account_BillingAddress": "Számlázási cím",
     "Account_MailingAddress": "Értesítési cím",
-    "Account_Name": "Cégnév",
+    "Account_Name": "Cégnév (hivatalos)",
     "Account_TaxId": "Adószám (11 számjegy)",
     "Account_TaxIdType": "Adószám típusa",
     "AddressLine1": "Címsor 1",

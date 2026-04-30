@@ -348,7 +348,7 @@
     "Change_Email": "Change email",
     "Change_FirstLastName": "Change name",
     "Change_Name": "Change name",
-    "Change_Organization": "Change organisation name",
+    "Change_Organization": "Change company name",
     "Change_Password": "Change password"
   },
   "Plans": {
@@ -361,7 +361,7 @@
   "Properties": {
     "Account_BillingAddress": "Billing address",
     "Account_MailingAddress": "Mailing address",
-    "Account_Name": "Organisation name",
+    "Account_Name": "Company name (legal)",
     "Account_TaxId": "Tax Id",
     "Account_TaxIdType": "Tax Id type",
     "AddressLine1": "Address line 1",
@@ -390,7 +390,7 @@
     "Account_Custom_Property_ChapterCountry_Romania": "Romania",
     "Account_Custom_Property_ChapterCountry_Hungary": "Hungary",
     "Account_Custom_Property_ChapterCountry_NoChapterSelected": "No chapter in my country (yet)",
-    "Account_Custom_Property_CompanyName": "Company name",
+    "Account_Custom_Property_CompanyName": "Company name (legal)",
     "Account_Custom_Property_FirstName": "First name",
     "Account_Custom_Property_LastName": "Last name"
   },
