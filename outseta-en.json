@@ -389,10 +389,12 @@
     "Account_Custom_Property_ChapterCountry_Czechia": "Czechia",
     "Account_Custom_Property_ChapterCountry_Romania": "Romania",
     "Account_Custom_Property_ChapterCountry_Hungary": "Hungary",
+    "Account_Custom_Property_ChapterCountry_Serbia": "Serbia",
     "Account_Custom_Property_ChapterCountry_NoChapterSelected": "No chapter in my country (yet)",
     "Account_Custom_Property_CompanyName": "Company name (legal)",
     "Account_Custom_Property_FirstName": "First name",
-    "Account_Custom_Property_LastName": "Last name"
+    "Account_Custom_Property_LastName": "Last name",
+    "Account_Custom_Property_PersonalRepresentative": "Personal representative"
   },
   "TaxIdTypes": {
     "au_abn": "Australian Business Number (AU ABN)",

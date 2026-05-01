@@ -409,11 +409,13 @@
     "Account_Custom_Property_ChapterCountry_Germany": "Németország",
     "Account_Custom_Property_ChapterCountry_Czechia": "Csehország",
     "Account_Custom_Property_ChapterCountry_Romania": "Románia",
+      "Account_Custom_Property_ChapterCountry_Serbia": "Szerbia",
     "Account_Custom_Property_ChapterCountry_Switzerland": "Svájc",
     "Account_Custom_Property_ChapterCountry_NoChapterSelected": "Még nincs csoport az országomban",
     "Account_Custom_Property_CompanyName": "Cégnév",
     "Account_Custom_Property_FirstName": "Keresztnév",
-    "Account_Custom_Property_LastName": "Vezetéknév"
+    "Account_Custom_Property_LastName": "Vezetéknév",
+    "Account_Custom_Property_PersonalRepresentative": "Személyes közreműködő"
   },
   "TaxIdTypes": {
     "eu_vat": "Európai ÁFA-szám",
