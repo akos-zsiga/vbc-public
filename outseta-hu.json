@@ -350,7 +350,7 @@
     "YourPlanHasBeenUpdated": "A tagságod sikeresen frissítésre került.",
     "YoureCurrentlyUsing": "Jelenleg <strong>{{current}} személy használja a fiókodat a lehetséges {{limit}}</strong> {{unitOfMeasure}} -ből.",
     "YoureCurrentlyUsingWithMaximumPlan": "Jelenleg <strong>{{current}} személy használja a fiókodat a lehetséges {{limit}}</strong> {{unitOfMeasure}} -ből. Maximum <strong>{{maximumPeople}}</strong> személy tartozhat a fiókodhoz.",
-    "TermsAndConditions": "Elolvastam és elfogadom a Felhasználási Feltételeket (<a href='https://veganbusinesscircle.com/hu/aszf/' target='_blank' rel='noopener'>link</a>) és a Működési és Etikai Szabályzatot (<a href='https://veganbusinesscircle.com/hu/etikai-kodex/' target='_blank' rel='noopener'>link</a>)."
+    "TermsAndConditions": "Elolvastam és elfogadom az <a href="https://veganbusinesscircle.com/terms-and-conditions/" target="_blank" rel="noopener">Általános Szerződési Feltételeket</a>, az <a href="https://veganbusinesscircle.com/code-of-ethics/" target="_blank" rel="noopener">Etikai Kódexet</a> és az <a href="https://veganbusinesscircle.com/privacy-policy/" target="_blank" rel="noopener">Adatkezelési Tájékoztatót</a>."
   },
   "Plans": {
   "EWB4POQr": {
