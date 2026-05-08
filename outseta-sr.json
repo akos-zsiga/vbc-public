@@ -349,7 +349,8 @@
   "Change_FirstLastName": "Promeni ime i prezime",
   "Change_Name": "Promeni ime",
   "Change_Organization": "Promeni organizaciju",
-  "Change_Password": "Promeni lozinku"
+  "Change_Password": "Promeni lozinku",
+  "TermsAndConditions": "Pročitao/la sam i prihvatam <a href=\"https://veganbusinesscircle.com/terms-and-conditions/\" target=\"_blank\" rel=\"noopener\">Opšte uslove korišćenja</a>, <a href=\"https://veganbusinesscircle.com/code-of-ethics/\" target=\"_blank\" rel=\"noopener\">Etički kodeks</a> i <a href=\"https://veganbusinesscircle.com/privacy-policy/\" target=\"_blank\" rel=\"noopener\">Obaveštenje o privatnosti</a>."
 },
 "Plans": {
   "[Uid]": {

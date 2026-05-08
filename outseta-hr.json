@@ -358,7 +358,7 @@
     "YourPlanHasBeenUpdated": "Vaš plan je ažuriran",
     "YoureCurrentlyUsing": "Trenutno koristite <strong>{{current}} od {{limit}}</strong> {{unitOfMeasure}} na vašem računu.",
     "YoureCurrentlyUsingWithMaximumPlan": "Trenutno koristite <strong>{{current}} od {{limit}}</strong> {{unitOfMeasure}} na vašem računu. Možete imati najviše <strong>{{maximumPeople}}</strong> ljudi u vašem planu.",
-    "TermsAndConditions": "Pročitao/la sam i slažem se s Uvjetima korištenja (<a href='https://veganbusinesscircle.com/gtc/' target='_blank' rel='noopener'>link</a>) i Pravilima o radu i etici (<a href='https://veganbusinesscircle.com/code-of-ethics/' target='_blank' rel='noopener'>link</a>)."
+    "TermsAndConditions": "Pročitao/la sam i prihvaćam <a href=\"https://veganbusinesscircle.com/terms-and-conditions/\" target=\"_blank\" rel=\"noopener\">Opće uvjete poslovanja</a>, <a href=\"https://veganbusinesscircle.com/code-of-ethics/\" target=\"_blank\" rel=\"noopener\">Etički kodeks</a> i <a href=\"https://veganbusinesscircle.com/privacy-policy/\" target=\"_blank\" rel=\"noopener\">Obavijest o privatnosti</a>."
   },
   "Plans": {
     "[Uid]": {

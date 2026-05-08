@@ -350,7 +350,7 @@
     "YourPlanHasBeenUpdated": "Votre plan a été mis à jour.",
     "YoureCurrentlyUsing": "Vous utilisez actuellement <strong>{{current}} {{unitOfMeasure}} sur {{limit}}</strong> sur votre compte.",
     "YoureCurrentlyUsingWithMaximumPlan": "Vous utilisez actuellement <strong>{{current}} {{unitOfMeasure}} sur {{limit}}</strong> sur votre compte. Vous pouvez avoir un maximum de <strong>{{maximumPeople}}</strong> personnes sur votre plan.",
-    "TermsAndConditions": "J'accepte les termes et les conditions (<a href='https://veganbusinesscircle.com/fr/conditions-generales-dutilisation/' target='_blank' rel='noopener'>link</a>)."
+    "TermsAndConditions": "J'ai lu et j'accepte les <a href=\"https://veganbusinesscircle.com/terms-and-conditions/\" target=\"_blank\" rel=\"noopener\">Conditions Générales</a>, le <a href=\"https://veganbusinesscircle.com/code-of-ethics/\" target=\"_blank\" rel=\"noopener\">Code d'Éthique</a> et la <a href=\"https://veganbusinesscircle.com/privacy-policy/\" target=\"_blank\" rel=\"noopener\">Politique de Confidentialité</a>."
   },
   
 "Plans": {
