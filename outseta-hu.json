@@ -107,11 +107,12 @@
   },
   "FieldGroups": {
     "Address": "Cím",
+    "Organization": "Cég információk",
     "Change_Address": "Cím módosítása",
     "Change_Email": "Email módosítása",
     "Change_FirstLastName": "Név módosítása",
     "Change_Name": "Név módosítása",
-    "Change_Organization": "Felhasználó módosítása",
+    "Change_Organization": "Cég információk módosítása",
     "Change_Password": "Jelszó módosítása",
     "FirstLastName": "Név"
   },
@@ -409,7 +410,7 @@
     "Account_Custom_Property_ChapterCountry_Germany": "Németország",
     "Account_Custom_Property_ChapterCountry_Czechia": "Csehország",
     "Account_Custom_Property_ChapterCountry_Romania": "Románia",
-      "Account_Custom_Property_ChapterCountry_Serbia": "Szerbia",
+    "Account_Custom_Property_ChapterCountry_Serbia": "Szerbia",
     "Account_Custom_Property_ChapterCountry_Switzerland": "Svájc",
     "Account_Custom_Property_ChapterCountry_NoChapterSelected": "Egyéb",
     "Account_Custom_Property_CompanyName": "Cégnév",
