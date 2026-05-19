@@ -107,14 +107,17 @@
   },
   "FieldGroups": {
     "Address": "Cím",
-    "Organization": "Cég információk",
     "Change_Address": "Cím módosítása",
     "Change_Email": "Email módosítása",
     "Change_FirstLastName": "Név módosítása",
     "Change_Name": "Név módosítása",
     "Change_Organization": "Cég információk módosítása",
     "Change_Password": "Jelszó módosítása",
-    "FirstLastName": "Név"
+    "FirstLastName": "Név",
+    "Organization": "Cég információk",
+    "TaxIdTypeTaxId": "Adószám",
+    "TaxId": "Adószám",
+    "Account_TaxId": "Adószám (11 számjegy)"
   },
   "Labels": {
     "Account": "Felhasználói fiók",
@@ -356,28 +359,16 @@
   "Plans": {
   "EWB4POQr": {
     "Name": "VBC Tagság",
-    "Description": "<ul><li><strong>Korlátlan részvételi lehetőség az Üzleti Reggeliken<br /></strong>Vegyél részt üzleti reggeliken bárhol, bármikor.</li><li><strong>Ingyenes részvétel<br /></strong>Csatlakozz online networking eseményekhez és MasterMind találkozókhoz korlátlanul.</li><li><strong>1 PR cikk megjelenése<br /></strong>A VBC weboldalán és közösségi oldalain (Facebook, LinkedIn, Instagram).</li><li><strong>Bemutatkozási lehetőség<br /></strong>Évente 1 alkalommal 10 perces tagi bemutatkozási lehetőség az üzleti reggeliken</li><li><strong>Exkluzív kedvezmények<br /></strong>Kedvezményes árak VBC által szervezett eseményekre és promóciókra.</li></ul>",
+    "Description": "",
     "UnitOfMeasure": "db",
     "UnitOfMeasurePlural": "db"
   },
   "49EDEjQ7": {
     "Name": "VBC Vendég",
-    "Description": "<ul><li><strong>Gyere el kétszer vendégként az Üzleti Reggelire<br /></strong>Vendégként, tagság nélkül is ellátogathatsz hozzánk két alkalommal.</li><li><strong>Ajándék 30 perces üzleti konzultáció<br /></strong>Segítünk vállalkozásod fejlesztésében egy díjtalan, személyre szabott konzultációval.</li></ul>",
+    "Description": "",
     "UnitOfMeasure": "db",
     "UnitOfMeasurePlural": "db"
-  },
-    "OW46DpQg": {
-      "Name": "VBC Vendég (hátralévő meghívók: 1)",
-      "Description": "<ul><li><strong>Gyere el kétszer vendégként az Üzleti Reggelire<br /></strong>Vendégként, tagság nélkül is ellátogathatsz hozzánk két alkalommal.</li><li><strong>Ajándék 30 perces üzleti konzultáció<br /></strong>Segítünk vállalkozásod fejlesztésében egy díjtalan, személyre szabott konzultációval.</li></ul>",
-      "UnitOfMeasure": "db",
-		  "UnitOfMeasurePlural": "db"
-			 },
-    "XQY0KMmP": {
-      "Name": "VBC Vendég (hátralévő meghívók: 0)",
-      "Description": "<ul><li><strong>Gyere el kétszer vendégként az Üzleti Reggelire<br /></strong>Vendégként, tagság nélkül is ellátogathatsz hozzánk két alkalommal.</li><li><strong>Ajándék 30 perces üzleti konzultáció<br /></strong>Segítünk vállalkozásod fejlesztésében egy díjtalan, személyre szabott konzultációval.</li></ul>",
-      "UnitOfMeasure": "db",
-      "UnitOfMeasurePlural": "db"
-      }
+  }
     },
       
   "Properties": {
@@ -434,7 +425,7 @@
     "ge_vat": "Grúz ÁFA-szám",
     "is_vat": "Izlandi ÁFA-szám (VSK-szám)",
     "in_gst": "Indiai GST-szám",
-    "il_vat": "Izraeli ÁFA-szám (Ma'am)",
+    "il_vat": "Izraeli ÁFA-szám (Maam)",
     "li_vat": "Liechtensteini ÁFA-szám (Mehrwertsteuernummer)",
     "my_sst": "Maláj SST-szám",
     "md_vat": "Moldovai ÁFA-szám (Cod TVA)",
