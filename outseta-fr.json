@@ -356,28 +356,15 @@
 "Plans": {
   "EWB4POQr": {
     "Name": "Membre VBC",
-    "Description": "<li><strong>Petit-déjeuners Business illimités<br /></strong>Rejoignez-nous autant de fois que vous voulez - sans limite</li><li><strong>Networking & Masterminds gratuits<br /></strong>Accès illimité à des événements network en ligne et des sessions mastermind.</li><li><strong>PR Article<br /></strong>Nous publierons un article sur votre entreprise sur nos réseaux sociaux.</li><li><strong>Introduction Business<br /></strong>Une fois par an, vous aurez l'occasion de présenter votre business pendant 10 min durant nos petits déjeuners.</li><li><strong>Réduction exclusive pour les membres<br /></strong>Obtenez des réductions spéciales sur les événements VBC et des promotions auprès de nos partenaires.</li></ul>",
+    "Description": "",
     "UnitOfMeasure": "profil",
     "UnitOfMeasurePlural": "profil"
   },
   "49EDEjQ7": {
     "Name": "Invité/e VBC",
-    "Description": "<ul><li><strong>2 invitations gratuites pour un petit déjeuner Business<br /></strong>Rejoignez-nous deux fois en tant qu'invité - aucune obligation d'être membre du club.</li><li><strong>Consultation gratuite de 30 minutes<br /></strong>Nous vous aiderons à développer votre business avec une session stratégique.</li>",
-    "UnitOfMeasure": "profil",
+    "Description": "",
     "UnitOfMeasurePlural": "profil"
-  },
-    "OW46DpQg": {
-      "Name": "Invité/e VBC (reste 1 invitation)",
-     "Description": "<ul><li><strong>2 invitations gratuites pour un petit déjeuner Business<br /></strong>Rejoignez-nous deux fois en tant qu'invité - aucune obligation d'être membre du club.</li><li><strong>Consultation gratuite de 30 minutes<br /></strong>Nous vous aiderons à développer votre business avec une session stratégique.</li>",
-      "UnitOfMeasure": "profil",
-		  "UnitOfMeasurePlural": "profil"
-			 },
-    "XQY0KMmP": {
-      "Name": "Invité/e VBC (reste 0 invitation)",
-     "Description": "<ul><li><strong>2 invitations gratuites pour un petit déjeuner Business<br /></strong>Rejoignez-nous deux fois en tant qu'invité - aucune obligation d'être membre du club.</li><li><strong>Consultation gratuite de 30 minutes<br /></strong>Nous vous aiderons à développer votre business avec une session stratégique.</li>",
-      "UnitOfMeasure": "profil",
-      "UnitOfMeasurePlural": "profil"
-      }
+  }
       },
       
   "Properties": {

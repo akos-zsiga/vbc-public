@@ -355,28 +355,15 @@
 "Plans": {
   "EWB4POQr": {
     "Name": "VBC Mitglied",
-    "Description": "<ul><li><strong>Unbegrenzte Teilnahme an Business-Frühstücken<br /></strong>Nimm überall und jederzeit an Business-Frühstücken teil.</li><li><strong>Kostenlose Teilnahme<br /></strong>Nimm unbegrenzt an Online-Networking-Events und MasterMind-Treffen teil.</li><li><strong>1 PR-Artikel Veröffentlichung<br /></strong>Auf der VBC-Website und in sozialen Medien (Facebook, LinkedIn, Instagram).</li><li><strong>Vorstellungsmöglichkeit<br /></strong>Einmal jährlich eine 10-minütige Mitgliederpräsentation beim Business-Frühstück.</li><li><strong>Exklusive Rabatte<br /></strong>Vergünstigte Preise für VBC-Veranstaltungen und -Aktionen.</li></ul>",
+    "Description": "",
     "UnitOfMeasure": "Stk.",
     "UnitOfMeasurePlural": "Stk."
   },
   "49EDEjQ7": {
     "Name": "VBC Gast (verbleibende Einladungen: 2)",
-    "Description": "<ul><li><strong>Komme zweimal als Gast zum Business-Frühstück<br /></strong>Du kannst zweimal teilnehmen, auch ohne Mitgliedschaft.</li><li><strong>Kostenlose 30-minütige Geschäftskonsultation<br /></strong>Wir helfen dir bei der Weiterentwicklung deines Unternehmens mit einer kostenlosen, personalisierten Beratung.</li></ul>",
-    "UnitOfMeasure": "Stk.",
+    "Description": "",
     "UnitOfMeasurePlural": "Stk."
-  },
-  "OW46DpQg": {
-    "Name": "VBC Gast (verbleibende Einladungen: 1)",
-    "Description": "<ul><li><strong>Komme zweimal als Gast zum Business-Frühstück<br /></strong>Du kannst zweimal teilnehmen, auch ohne Mitgliedschaft.</li><li><strong>Kostenlose 30-minütige Geschäftskonsultation<br /></strong>Wir helfen dir bei der Weiterentwicklung deines Unternehmens mit einer kostenlosen, personalisierten Beratung.</li></ul>",
-    "UnitOfMeasure": "Stk.",
-    "UnitOfMeasurePlural": "Stk."
-  },
-  "XQY0KMmP": {
-    "Name": "VBC Gast (verbleibende Einladungen: 0)",
-    "Description": "<ul><li><strong>Komme zweimal als Gast zum Business-Frühstück<br /></strong>Du kannst zweimal teilnehmen, auch ohne Mitgliedschaft.</li><li><strong>Kostenlose 30-minütige Geschäftskonsultation<br /></strong>Wir helfen dir bei der Weiterentwicklung deines Unternehmens mit einer kostenlosen, personalisierten Beratung.</li></ul>",
-    "UnitOfMeasure": "Stk.",
-    "UnitOfMeasurePlural": "Stk."
-    }
+  }
 },
   
   "Properties": {

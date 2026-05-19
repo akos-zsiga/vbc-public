@@ -353,11 +353,19 @@
   "TermsAndConditions": "Pročitao/la sam i prihvatam <a href=\"https://veganbusinesscircle.com/terms-and-conditions/\" target=\"_blank\" rel=\"noopener\">Opšte uslove korišćenja</a>, <a href=\"https://veganbusinesscircle.com/code-of-ethics/\" target=\"_blank\" rel=\"noopener\">Etički kodeks</a> i <a href=\"https://veganbusinesscircle.com/privacy-policy/\" target=\"_blank\" rel=\"noopener\">Obaveštenje o privatnosti</a>."
 },
 "Plans": {
-  "[Uid]": {
-    "Name": "Naziv paketa",
-    "Description": "Opis paketa"
+  "EWB4POQr": {
+    "Name": "VBC članstvo",
+    "Description": "",
+    "UnitOfMeasure": "kom",
+    "UnitOfMeasurePlural": "kom"
+  },
+  "49EDEjQ7": {
+    "Name": "VBC gost",
+    "Description": "",
+    "UnitOfMeasure": "kom",
+    "UnitOfMeasurePlural": "kom"
   }
-},
+    },
 "Properties": {
   "Account_BillingAddress": "Adresa za naplatu",
   "Account_MailingAddress": "Poštanska adresa",
