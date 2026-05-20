@@ -369,9 +369,9 @@
 "Properties": {
   "Account_BillingAddress": "Adresa za naplatu",
   "Account_MailingAddress": "Poštanska adresa",
-  "Account_Name": "Organizacija",
+  "Account_Name": "Naziv pravnog lica",
   "Account_TaxId": "Poreski identifikacioni broj",
-  "Account_TaxIdType": "Tip poreskog identifikacionog broja",
+  "Account_TaxIdType": "Tip poreskog ID",
   "AddressLine1": "Adresa - linija 1",
   "AddressLine2": "Adresa - linija 2",
   "City": "Grad",
