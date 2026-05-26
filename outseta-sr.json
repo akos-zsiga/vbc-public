@@ -233,7 +233,8 @@
   "YourPaymentInformationHasBeenUpdated": "Vaši podaci o plaćanju su ažurirani",
   "YoureCurrentlyUsing": "Trenutno koristite <strong>{{current}} od {{limit}}</strong> {{unitOfMeasure}} na svom nalogu.",
   "YoureCurrentlyUsingWithMaximumPlan": "Trenutno koristite <strong>{{current}} od {{limit}}</strong> {{unitOfMeasure}} na svom nalogu. Maksimalno možete imati <strong>{{maximumPeople}}</strong> osoba u vašem paketu.",
-  "YourPlanHasBeenUpdated": "Vaš paket je ažuriran"
+  "YourPlanHasBeenUpdated": "Vaš paket je ažuriran",
+   "TermsAndConditions": "Pročitao/la sam i prihvatam <a href=\"https://veganbusinesscircle.com/terms-and-conditions/\" target=\"_blank\" rel=\"noopener\">Opšte uslove korišćenja</a>, <a href=\"https://veganbusinesscircle.com/code-of-ethics/\" target=\"_blank\" rel=\"noopener\">Etički kodeks</a> i <a href=\"https://veganbusinesscircle.com/privacy-policy/\" target=\"_blank\" rel=\"noopener\">Obaveštenje o privatnosti</a>."
 },
 "Errors": {
   "AlreadySubscribed": "Već ste pretplaćeni na ovaj proizvod.",
@@ -349,8 +350,7 @@
   "Change_FirstLastName": "Promeni ime i prezime",
   "Change_Name": "Promeni ime",
   "Change_Organization": "Promeni organizaciju",
-  "Change_Password": "Promeni lozinku",
-  "TermsAndConditions": "Pročitao/la sam i prihvatam <a href=\"https://veganbusinesscircle.com/terms-and-conditions/\" target=\"_blank\" rel=\"noopener\">Opšte uslove korišćenja</a>, <a href=\"https://veganbusinesscircle.com/code-of-ethics/\" target=\"_blank\" rel=\"noopener\">Etički kodeks</a> i <a href=\"https://veganbusinesscircle.com/privacy-policy/\" target=\"_blank\" rel=\"noopener\">Obaveštenje o privatnosti</a>."
+  "Change_Password": "Promeni lozinku"
 },
 "Plans": {
   "EWB4POQr": {
